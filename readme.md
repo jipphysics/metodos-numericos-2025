@@ -2,7 +2,9 @@
 
 ## Anuncios
 
-* ... : Inicio de clases.
+* 2025-03-11 : Inicio de clases.
+* ...
+* 2025-06-19 : Fin de clases.
 
 ## Salas virtuales
 
