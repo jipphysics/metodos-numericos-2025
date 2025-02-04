@@ -11,6 +11,18 @@
 * [Juan Perotti](https://meet.google.com/tjp-uypo-zbi)
 * [Federico Carrasco](https://meet.google.com/oye-rgjt-kjc)
 
+## Guías
+
+* [Guía 0: ..., Ejercicios con papel y lápiz](...)
+
+## Videos de las clases
+
+* [Clase 1: ...](...)
+
+## Parcial
+
+* [...]
+
 ## Útiles
 
 * [Aula virtual](https://famaf.aulavirtual.unc.edu.ar/login/index.php)
@@ -21,15 +33,3 @@
 
 * Think in Julia en español: [https://introajulia.org/](https://introajulia.org/).
 * Curso de extensión Introducción a la programación en Julia con aplicaciones científicas, FAMAF (2022): [https://github.com/jipphysics/curso-extension-julia-famaf-2022](https://github.com/jipphysics/curso-extension-julia-famaf-2022).
-
-## Parcial
-
-* [...]
-
-## Guías
-
-* [Guía 0: ..., Ejercicios con papel y lápiz]()
-
-## Videos de las clases
-
-* [Clase 1: ...](...)
