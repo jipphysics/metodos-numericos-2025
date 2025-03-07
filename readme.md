@@ -1,5 +1,7 @@
 # Metodos Numéricos 2025
 
+Martes y Jueves, 11-13h, lab 17.
+
 ## Anuncios
 
 * 2025-03-11 : Inicio de clases.
@@ -13,15 +15,18 @@
 
 ## Guías
 
-* [Guía 0: ..., Ejercicios con papel y lápiz](...)
+* [Guía 0: Ejercicios con papel y lápiz](TODO)
 
 ## Videos de las clases
 
-* [Clase 1: ...](...)
+* [Clase 1: Instalando y utilizando Julia, Jupyter, VS Code o Google Colab](TODO)
 
 ## Parciales
 
-* [...]
+* [Parcial 1: Martes 2025-04-15](TODO)
+* [Parcial 2: Jueves 2025-05-15](TODO)
+* [Parcial 3: Martes 2025-06-10](TODO)
+* [Recuperatorio: Martes 2025-06-17](TODO)
 
 ## Útiles
 
