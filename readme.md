@@ -19,7 +19,7 @@
 
 * [Clase 1: ...](...)
 
-## Parcial
+## Parciales
 
 * [...]
 
