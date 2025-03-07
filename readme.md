@@ -47,7 +47,7 @@ Martes y Jueves, 11-13h, lab 17.
 * [Clase 24, Jueves 2025-06-05: ...](TODO)
 * [Clase 25, Martes 2025-06-10: Parcial 3](TODO)
 * [Clase 26, Jueves 2025-06-12: ...](TODO)
-* [Clase 27, Martes 2025-06-17: ...](TODO)
+* [Clase 27, Martes 2025-06-17: Recuperatorio](TODO)
 * [Clase 28, Jueves 2025-06-19: Charlitas de los profes.](TODO)
 
 ## Parciales
