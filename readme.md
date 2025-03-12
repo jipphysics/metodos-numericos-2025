@@ -12,7 +12,7 @@ Martes y Jueves, 11-13h, lab 17.
 
 * [Juan Perotti](https://meet.google.com/tjp-uypo-zbi)
 * [Federico Carrasco](https://meet.google.com/oye-rgjt-kjc)
-* [Diego Dorado](diego.dorado@mi.unc.edu.ar)
+* [Diego Dorado](https://meet.google.com/dhh-coip-qyn)
 
 ## Guías
 
