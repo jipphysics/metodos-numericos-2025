@@ -21,7 +21,7 @@ Martes y Jueves, 11-13h, lab 17.
 ## Videos de las clases
 
 * [Clase 1,  Martes 2025-03-11: Instalando y utilizando Julia, Jupyter, VS Code o Google Colab](TODO)
-* [Clase 2,  Jueves 2025-03-13: ...](TODO)
+* [Clase 2,  Jueves 2025-03-13: Guía 1, primeros pasos en Julia](TODO)
 * [Clase 3,  Martes 2025-03-18: ...](TODO)
 * [Clase 4,  Jueves 2025-03-20: ...](TODO)
 * [Clase 5,  Martes 2025-03-25: ...](TODO)
