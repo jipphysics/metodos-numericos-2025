@@ -60,7 +60,7 @@ Martes y Jueves, 11-13h, lab 17.
 
 ## Útiles
 
-* [Aula virtual](https://famaf.aulavirtual.unc.edu.ar/login/index.php)
+* [Aula virtual](https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=482&section=0)
 * [Página oficial de la materia](TODO)
 * [Calendario académico FAMAF 2025](https://www.famaf.unc.edu.ar/documents/5131/RHCD-2024-507-E-UNC-DEC_FAMAF_-_Anexo_Calendario_Academico_2025.pdf)
 
