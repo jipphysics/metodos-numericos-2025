@@ -16,7 +16,8 @@ Martes y Jueves, 11-13h, lab 17.
 
 ## Guías
 
-* [Guía 0: Ejercicios con papel y lápiz](TODO)
+* [Guía 0: Ejercicios con papel y lápiz](https://github.com/jipphysics/metodos-numericos-2025/blob/main/guias/guia0_2025.pdf)
+* [Guía 1: Ejercicios con papel y lápiz](TODO)
 
 ## Videos de las clases
 
