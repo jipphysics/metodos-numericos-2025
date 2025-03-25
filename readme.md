@@ -63,7 +63,6 @@ Martes y Jueves, 11-13h, lab 17.
 
 * [Aula virtual](https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=482)
 * [Calendario académico FAMAF 2025](https://www.famaf.unc.edu.ar/documents/5131/RHCD-2024-507-E-UNC-DEC_FAMAF_-_Anexo_Calendario_Academico_2025.pdf)
-* [QR asistencia](https://github.com/jipphysics/metodos-numericos-2025/blob/main/metodos-numericos-2025-QR-asistencia.pdf)
 
 ## Tutoriales
 
