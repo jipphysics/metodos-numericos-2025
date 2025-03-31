@@ -23,14 +23,14 @@ Martes y Jueves, 11-13h, lab 17.
 
 * [Clase 1,  Martes 2025-03-11: Instalando y utilizando Julia, Jupyter, VS Code o Google Colab](TODO)
 * [Clase 2,  Jueves 2025-03-13: Guía 1, primeros pasos en Julia](TODO)
-* [Clase 3,  Martes 2025-03-18: ...](TODO)
+* [Clase 3,  Martes 2025-03-18: Paro](TODO)
 * [Clase 4,  Jueves 2025-03-20: ...](TODO)
 * [Clase 5,  Martes 2025-03-25: ...](TODO)
-* [Clase 6,  Jueves 2025-03-27: ...](TODO)
+* [Clase 6,  Jueves 2025-03-27: Guía 2, Solución de ecuaciones de una variable](TODO)
 * [Clase 7,  Martes 2025-04-01: ...](TODO)
 * [Clase 8,  Jueves 2025-04-04: ...](TODO)
 * [Clase 9,  Martes 2025-04-08: ...](TODO)
-* [Clase 10, Jueves 2025-04-10: ...](TODO)
+* [Clase 10, Jueves 2025-04-10: Paro general?](TODO)
 * [Clase 11, Martes 2025-04-15: Parcial 1](TODO)
 * Jueves 2025-04-17, Jueves Santo.
 * [Clase 12, Martes 2025-04-15: ...](TODO)
