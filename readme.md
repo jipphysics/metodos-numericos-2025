@@ -32,7 +32,7 @@ Martes y Jueves, 11-13h, lab 17.
 * [Clase 7,  Martes 2025-04-01: ...](TODO)
 * [Clase 8,  Jueves 2025-04-04: ...](TODO)
 * [Clase 9,  Martes 2025-04-08: ...](TODO)
-* [Clase 10, Jueves 2025-04-10: Paro general?](TODO)
+* [Clase 10, Jueves 2025-04-10: Paro general](TODO)
 * [Clase 11, Martes 2025-04-15: Parcial 1](TODO)
 * Jueves 2025-04-17, Jueves Santo.
 * [Clase 12, Martes 2025-04-15: ...](TODO)
@@ -53,6 +53,10 @@ Martes y Jueves, 11-13h, lab 17.
 * [Clase 26, Jueves 2025-06-12: ...](TODO)
 * [Clase 27, Martes 2025-06-17: Recuperatorio](TODO)
 * [Clase 28, Jueves 2025-06-19: Charlitas de los profes.](TODO)
+
+### Clases de consulta
+
+* [Clase de consulta 1, Jueves 2025-04-10](https://drive.google.com/file/d/1itRTWJ9jQYsal_TvJAQcgQf0KXS6Acbc/view?usp=drive_link)
 
 ## Parciales
 
