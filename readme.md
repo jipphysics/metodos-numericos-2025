@@ -5,6 +5,7 @@ Martes y Jueves, 11-13h, lab 17.
 ## Anuncios
 
 * 2025-03-11 : Inicio de clases.
+* 2025-04-10 : Clase de consultas virtual en la sala de meet de Juan.
 * ...
 * 2025-06-19 : Fin de clases.
 
