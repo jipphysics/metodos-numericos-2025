@@ -20,6 +20,7 @@ Martes y Jueves, 11-13h, lab 17.
 * [Guía 0: Ejercicios con papel y lápiz](https://github.com/jipphysics/metodos-numericos-2025/blob/main/guias/guia0_2025.pdf)
 * [Guía 1: Parte 1, uso de Linux, Julia y Notebooks. Parte 2, ejercicios de programación en Julia. Parte 3, errores Numéricos.](https://github.com/jipphysics/metodos-numericos-2025/blob/main/guias/guia-1-2025.ipynb)
 * [Guía 2: Solución de ecuaciones de una variable.](https://github.com/jipphysics/metodos-numericos-2025/blob/main/guias/guia-2-2025.ipynb)
+* [Guía 3: Interpolación y aproximación polinomial](https://github.com/jipphysics/metodos-numericos-2025/blob/main/guias/guia-3-2025.ipynb)
 
 ## Videos de las clases
 
