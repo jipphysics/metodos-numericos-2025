@@ -22,6 +22,7 @@ Martes y Jueves, 11-13h, lab 17.
 * [Guía 2: Solución de ecuaciones de una variable.](https://github.com/jipphysics/metodos-numericos-2025/blob/main/guias/guia-2-2025.ipynb)
 * [Guía 3: Interpolación y aproximación polinomial](https://github.com/jipphysics/metodos-numericos-2025/blob/main/guias/guia-3-2025.ipynb)
 * [Guía 4: Ajuste por Cuadrados Mínimos](https://github.com/jipphysics/metodos-numericos-2025/blob/main/guias/guia-4-2025.ipynb)
+* [Guía 5: Derivadas](https://github.com/jipphysics/metodos-numericos-2025/blob/main/guias/guia-5-2025.ipynb)
 
 ## Videos de las clases
 
@@ -42,7 +43,7 @@ Martes y Jueves, 11-13h, lab 17.
 * [Clase 14, Martes 2025-04-29: ...](TODO)
 * Jueves 2025-05-01, Feriado.
 * [Clase 15, Martes 2025-05-06: ...](TODO)
-* [Clase 16, Jueves 2025-05-06: ...](TODO)
+* [Clase 16, Jueves 2025-05-08: ...](TODO)
 * [Clase 17, Martes 2025-05-13: ...](TODO)
 * [Clase 18, Jueves 2025-05-15: Parcial 2](TODO)
 * [Clase 19, Martes 2025-05-20, Semana de Mayo: ...](TODO)
