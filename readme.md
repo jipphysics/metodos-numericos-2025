@@ -46,7 +46,7 @@ Martes y Jueves, 11-13h, lab 17.
 * [Clase 15, Martes 2025-05-06: ...](TODO)
 * [Clase 16, Jueves 2025-05-08: ...](TODO)
 * [Clase 17, Martes 2025-05-13: ...](TODO)
-* [Clase 18, Jueves 2025-05-15: Parcial 2](TODO)
+* [Clase 18, Jueves 2025-05-15: Parcial 2](https://github.com/jipphysics/metodos-numericos-2025/blob/main/parcial-2-2025.ipynb)
 * [Clase 19, Martes 2025-05-20, Semana de Mayo: ...](TODO)
 * [Clase 20, Jueves 2025-05-22, Semana de Mayo: ...](TODO)
 * [Clase 21, Martes 2025-05-27: ...](TODO)
