@@ -24,6 +24,7 @@ Martes y Jueves, 11-13h, lab 17.
 * [Guía 4: Ajuste por cuadrados mínimos](https://github.com/jipphysics/metodos-numericos-2025/blob/main/guias/guia-4-2025.ipynb)
 * [Guía 5: Derivadas](https://github.com/jipphysics/metodos-numericos-2025/blob/main/guias/guia-5-2025.ipynb)
 * [Guía 6: Integración numérica](https://github.com/jipphysics/metodos-numericos-2025/blob/main/guias/guia-6-2025.ipynb)
+* [Guía 7: Integración de Ecuaciones Diferenciales Ordinarias](https://github.com/jipphysics/metodos-numericos-2025/blob/main/guias/guia-7-2025.ipynb)
 
 ## Videos de las clases
 
