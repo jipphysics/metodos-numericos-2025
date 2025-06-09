@@ -30,7 +30,7 @@ Martes y Jueves, 11-13h, lab 17.
 ### Clases de consulta
 
 * [Clase de consulta 1, Jueves 2025-04-10](https://drive.google.com/file/d/1itRTWJ9jQYsal_TvJAQcgQf0KXS6Acbc/view?usp=drive_link)
-* [Clase de consulta 2, ...](TODO)
+* [Clase de consulta 2, Jueves 2025-05-22](TODO)
 
 ## Parciales
 
