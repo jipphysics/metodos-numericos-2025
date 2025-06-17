@@ -37,7 +37,7 @@ Martes y Jueves, 11-13h, lab 17.
 
 * [Parcial 1, Martes 2025-04-15](TODO)
 * [Parcial 2, Jueves 2025-05-15](TODO)
-* [Parcial 3, Martes 2025-06-17](TODO)
+* [Parcial 3, Martes 2025-06-17](https://github.com/jipphysics/metodos-numericos-2025/blob/main/parcial-3-2025.ipynb)
 * [Recuperatorio: Martes 2025-06-24](TODO)
 
 ## Útiles
